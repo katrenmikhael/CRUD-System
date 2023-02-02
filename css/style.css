@@ -1,0 +1,13 @@
+#productDesc {
+  resize: none;
+}
+
+.back-img {
+  background: url("../images/background2.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+span {
+  background-color: rgba(255, 0, 0, 0.413);
+}
